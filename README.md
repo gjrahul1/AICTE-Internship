@@ -40,18 +40,6 @@ Three different models were trained using the datasets:
 
 ---
 
-## 🛠️ Project Workflow
-```mermaid
-graph TD
-    A[Datasets] --> B[Data Preprocessing]
-    B --> C[Model Training]
-    C --> D[Model Evaluation]
-    D --> E[Web Application Integration]
-    E --> F[Deployment]
-```
-
----
-
 ## 🌟 Requirements
 To run this project, ensure you have the following installed:
 
@@ -89,16 +77,6 @@ Follow these steps to set up and run the project:
 
 ---
 
-## 🖼️ Screenshots
-
-### 1. Home Page
-![Home Page](./images/home_page.png)
-
-### 2. Predictions
-![Predictions](./images/predictions_page.png)
-
----
-
 ## 📚 Folder Structure
 ```
 Prediction-of-Disease-Outbreaks/
@@ -128,12 +106,12 @@ To successfully complete the internship:
 - ✅ Attend master sessions with Microsoft, SAP, and EF experts.
 - ✅ Participate in mentorship sessions.
 - ✅ Complete weekly tasks/milestones.
-- ✅ Submit the final project presentation.
+- ✅ Submit the final project report.
 
 ---
 
 ## 🤝 Acknowledgments
-We thank **Microsoft, SAP, and AICTE** for this incredible learning opportunity and the **Edunet Foundation** for their continuous support. 🙌
+I thank **Microsoft, SAP, and AICTE** for this incredible learning opportunity and the **Edunet Foundation** for their continuous support. 🙌
 
 ---
 
