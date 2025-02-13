@@ -4,16 +4,6 @@ Welcome to the **Prediction of Disease Outbreaks** project repository! This repo
 
 ---
 
-## 📜 Project Overview
-The **Prediction of Disease Outbreaks** project aims to:
-- **Identify disease patterns** based on health-related datasets.
-- **Predict potential outbreaks** for diabetes, heart diseases, and Parkinson's disease.
-- Provide a **user-friendly web interface** for easy access to predictions.
-
-This project will benefit healthcare professionals and researchers by helping them make informed decisions based on data-driven predictions.
-
----
-
 ## 📌 Features
 - 🔍 **Data Analysis**: Comprehensive analysis of health datasets.
 - 📈 **Machine Learning Models**:
